@@ -13,7 +13,7 @@ DefaultContentLanguageInSubdir = true
     [languages.en.params]
       introTitle = "Good morning, I'm 2TonWaffle"
       introSubtitle = "I enjoy indie games, content creation, and so much more."
-      introPhoto = "/picture.jpg"
+      introPhoto = "/Beehiive Thumbnail.png"
       logo = "/blist-logo.png"
     [[languages.en.menu.main]]
         name = "Blog"
